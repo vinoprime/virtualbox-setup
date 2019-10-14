@@ -1,5 +1,5 @@
 # to install virtualbox gest for shared folder from host(hostmachine) to guest(running on vm)
-1.$ sudo apt install build-essential dkms
+1.$ sudo apt install build-essential dkms # this is not mandatory
 2.$ sudo apt-get install virtualbox-guest-utils
 3.$ sudo mount -t vboxsf hostfolder /home/user/guestfolder
 4.$ 
