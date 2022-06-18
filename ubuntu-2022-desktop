@@ -6,3 +6,5 @@ select pending installations
 $ sudo apt install build-essential dkms linux-headers-$(uname -r)
 # add vbox gest editions from "Devces-> insert guestaddtions cd"
 # open terminal and run ./autorun.sh file inside guesy edition folder
+
+REF: https://www.youtube.com/watch?v=v1JVqd8M3Yc
